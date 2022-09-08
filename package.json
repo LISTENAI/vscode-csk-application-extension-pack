@@ -1,0 +1,25 @@
+{
+  "name": "csk-application-extension-pack",
+  "displayName": "CSK Appliction Extension Pack",
+  "description": "Recommended extensions for development with the CSK Application",
+  "publisher": "listenai",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "listenai.csk-application-basic",
+    "listenai.lisa-devicetree",
+    "plorefice.devicetree",
+    "ms-vscode.cpptools",
+		"marus25.cortex-debug",
+    "twxs.cmake"
+  ],
+  "repository": {
+		"url": "https://github.com/LISTENAI/vscode-csk-appliction-extension-pack",
+		"type": "git"
+	}
+}
