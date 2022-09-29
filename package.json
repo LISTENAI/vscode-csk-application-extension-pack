@@ -3,7 +3,8 @@
   "displayName": "CSK Appliction Extension Pack",
   "description": "Recommended extensions for development with the CSK Application",
   "publisher": "listenai",
-  "version": "0.0.1",
+  "icon": "icon.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -13,6 +14,7 @@
   "extensionPack": [
     "listenai.csk-application-basic",
     "listenai.lisa-devicetree",
+    "listenai.csk-terminal",
     "plorefice.devicetree",
     "ms-vscode.cpptools",
 		"marus25.cortex-debug",
