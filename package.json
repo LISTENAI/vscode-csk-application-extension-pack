@@ -13,7 +13,7 @@
   ],
   "extensionPack": [
     "listenai.csk-application-basic",
-    "listenai.lisa-devicetree",
+    "listenai.csk-devicetree",
     "listenai.csk-terminal",
     "plorefice.devicetree",
     "ms-vscode.cpptools",
